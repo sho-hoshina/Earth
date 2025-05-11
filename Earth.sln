@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Earth", "Earth\Earth.csproj", "{8916911A-3AF8-4759-87C4-A688DC215111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8916911A-3AF8-4759-87C4-A688DC215111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8916911A-3AF8-4759-87C4-A688DC215111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8916911A-3AF8-4759-87C4-A688DC215111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8916911A-3AF8-4759-87C4-A688DC215111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B350D2F1-8076-4BD6-9378-CCEE88B21802}
+	EndGlobalSection
+EndGlobal
